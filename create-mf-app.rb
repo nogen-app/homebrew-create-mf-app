@@ -1,5 +1,5 @@
 require 'rbconfig'
-class Create-Mf-App < Formula
+class CreateMfApp < Formula
   desc ""
   homepage "https://github.com/nogen/create-mf-app"
   version "{{.Version}}"
